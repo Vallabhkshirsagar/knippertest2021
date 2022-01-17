@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'KnipperWebAppJan2022'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE09013D5AD14378943C48E186183191 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E80B1FA76C4B4D6888CE4D6195DA2BA9 }}
           package: .
